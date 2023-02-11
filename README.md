@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/JfvzzYzvvngTo332ax/giphy.gif" alt="Hello there! I'm Vivian Chen" title="Hello there! I'm Vivian Chen"/>
+<img src="hithere.gif" width="1461px" alt="Hello there! I'm Vivian Chen" title="Hello there! I'm Vivian Chen"/>
 
 
 ## Welcome to my GitHub Profile!
