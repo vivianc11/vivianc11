@@ -12,6 +12,7 @@ Here are some of the front and back end technologies I've worked with in my past
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) &nbsp; 
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) &nbsp; 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; 
+![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) &nbsp; 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) &nbsp; 
 ![Jest Badge](https://img.shields.io/badge/Jest-gre?style=flat&logo=Jest&logoColor=white) &nbsp; 
