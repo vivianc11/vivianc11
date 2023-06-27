@@ -22,10 +22,11 @@ Here are some of the front and back end technologies I've worked with in my past
 
 
 ## 🔭 I’m currently working on ...
-- Developing a headless e-commerce site using React.js, commerce.js, stripe, and materialUI
+- Developing a mobile event management app (Eventify) that allows users to plan and organize various types of events, such as conferences, workshops, parties, and more. The application aims to streamline the event planning process, providing features for creating, and managing their events. I am using MERN (MongoDB, Express, React Native, Node) stack to develop this app. 
 
 ## 🤔 I’m currently learning ...
 - Advanced JavaScript concepts
+- Algorithms and Data structures
 - React Redux
 - React Native
 
@@ -33,8 +34,10 @@ Here are some of the front and back end technologies I've worked with in my past
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vivian_Chen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivian-chen-b19483145/)](https://www.linkedin.com/in/vivian-chen-b19483145/) &nbsp; 
 [![Website Badge](https://img.shields.io/badge/-vivianchen.dev-2a9d8f?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.vivianchen.dev)](https://www.vivianchen.dev) &nbsp; 
-[![Gmail Badge](https://img.shields.io/badge/-vivian.chen1193-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vivian.chen1193@gmail.com)](mailto:vivian.chen1193@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:vivianmdchen@protonmail.com)
 
+
+	
 
 ⚡ Fun fact:
 I am also currently working on achieving my Master's in Science of Basic Oral Sciences
